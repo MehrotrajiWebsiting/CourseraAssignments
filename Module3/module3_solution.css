@@ -23,9 +23,7 @@ h1{
 }
 .a{
 	background-color: darkgrey;
-	border: 1px solid black;
-	height: 700px;
-	overflow:hidden;	
+	padding: 0 5px 0 5px;	
 }
 h3{
 	margin-bottom:10px; 
@@ -39,5 +37,4 @@ h3{
 	#header-nav .navbar-header{
 	padding-left: 15px;
 	padding-right: 15px;
-}
 }
