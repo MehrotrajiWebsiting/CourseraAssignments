@@ -21,12 +21,13 @@ h1{
 	margin-top:5px;
 	margin-bottom: 30px;  
 }
-.row .a{
+.a{
 	background-color: darkgrey;
-	margin: auto;		
+	border: 1px solid black;
+	height: 700px;
+	overflow:hidden;	
 }
 h3{
-	text-align:center;
 	margin-bottom:10px; 
 }
 @media (max-width: 576px)
