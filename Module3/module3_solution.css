@@ -21,6 +21,9 @@ header{
 	background-color: darkgrey;
 	margin: auto;		
 }
+h3{
+	text-align:center;
+}
 @media (max-width: 576px)
 {
 	.row .a{
