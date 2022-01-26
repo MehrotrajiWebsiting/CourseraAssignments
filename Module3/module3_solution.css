@@ -1,0 +1,34 @@
+header{
+	background-color: grey;
+}
+#buton{
+	position: absolute;
+	top: 5vw;
+	right: 0;
+}
+#collapsable-nav li{
+	text-align: center;
+	background-color: pink;
+	border: 1px solid black;
+	padding: 0;
+}
+#header-nav{
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+.row .a{
+	background-color: darkgrey;
+	margin: auto;		
+}
+@media (max-width: 576px)
+{
+	.row .a{
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	#header-nav .navbar-header{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+}
